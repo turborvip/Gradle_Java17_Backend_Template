@@ -1,0 +1,7 @@
+# application-dev.yml
+
+app:
+  message: Welcome to dev.
+
+server:
+  port : 5432
