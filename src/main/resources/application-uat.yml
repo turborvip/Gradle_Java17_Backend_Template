@@ -1,7 +1,4 @@
 # application-uat.yml
 
-app:
-  message: Welcome to uat.
-
 server:
   port : 5080
